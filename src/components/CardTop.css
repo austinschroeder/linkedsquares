@@ -1,0 +1,62 @@
+.head {
+  display: flex;
+  margin-right: 50px;
+}
+
+.container-top {
+  /* position: relative; */
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  padding-right: 50px;
+  padding-left: 100px;
+}
+
+h1 {
+  font-style: normal;
+  font-weight: 600;
+  font-size: 4rem;
+  line-height: 1.2;
+  margin-bottom: 10px;
+}
+
+.person-top {
+  display: block;
+  max-width: 100%;
+  object-fit: contain;
+  height: auto;
+  width: 821px;
+  aspect-ratio: auto 821 / 755;
+}
+
+p {
+  font-size: 1.7rem;
+  margin: 10px 0px;
+
+}
+
+.two-minute-overview {
+  padding: 8px 15px;
+  border: 8px solid rgb(255,127,54);
+  color: rgb(255,127,54);
+  font-weight: 500;
+  font-size: 2.5rem;
+  margin: 4px 15px;
+  height: 50px;
+  width: 300px;
+  text-align: center;
+}
+
+.request-a-demo {
+  padding: 8px 15px;
+  border: 8px solid rgb(255, 255, 255);
+  background-color: rgb(255,127,54);
+  color: rgb(255, 255, 255);
+  font-weight: 500;
+  font-size: 2.5rem;
+  margin: 4px 15px;
+  height: 50px;
+  width: 280px;
+  text-align: center;
+}
+

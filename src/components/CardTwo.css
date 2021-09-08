@@ -1,0 +1,24 @@
+.card-two-container {
+  display: flex;
+  margin: 100px 100px;
+
+}
+
+.companies-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  height: 300px;
+}
+
+.companies-row-one
+.companies-row-two
+.companies-row-three {
+  display: flex;
+  flex-direction: column;
+}
+
+.woman-coffee {
+  height: 400px;
+}

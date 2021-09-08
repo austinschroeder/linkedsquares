@@ -1,0 +1,40 @@
+/* NAVBAR */
+.navbar {
+  /* position: fixed; */
+  top: 0;
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+  height: 70px;
+  padding: 0px 32px;
+}
+
+.navbar a {
+  font-weight: 500;
+  color: rgb(19,0,70);
+  font-family: sans-serif;
+  padding: 14px 10px;
+}
+
+.navbar a.nav-button {
+  padding: 8px 15px;
+  border: 3px solid rgb(255,127,54);
+  font-weight: 500;
+  margin: 4px 15px;
+  /* padding: 8px 15px; */
+
+}
+
+a.request-nav {
+  color: #fff3ec;
+  background-color: rgb(255,127,54);
+}
+
+.login-nav {
+  background: #fff3ec;
+  margin-right: 0px;
+}
+
+.logo-image {
+  margin-right: auto;
+}

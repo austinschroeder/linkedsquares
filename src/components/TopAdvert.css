@@ -1,0 +1,11 @@
+.topAdvert {
+  background-color: rgb(19,0,70);
+  color: white;
+  padding: 8px;
+  text-align: center;
+  /* position: fixed; */
+}
+
+.topAdvert-text {
+  font-size: 18px;
+}
