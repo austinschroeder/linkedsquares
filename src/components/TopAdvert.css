@@ -3,9 +3,10 @@
   color: white;
   padding: 8px;
   text-align: center;
-  /* position: fixed; */
+  position: sticky;
+  top: 0;
 }
 
-.topAdvert-text {
+.topAdvert > p {
   font-size: 18px;
 }

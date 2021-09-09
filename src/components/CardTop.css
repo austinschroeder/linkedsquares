@@ -42,20 +42,20 @@ p {
   color: rgb(255,127,54);
   font-weight: 500;
   font-size: 2.5rem;
-  margin: 4px 15px;
+  margin: 18px 0;
   height: 50px;
-  width: 300px;
+  width: 420px;
   text-align: center;
 }
 
 .request-a-demo {
   padding: 8px 15px;
-  border: 8px solid rgb(255, 255, 255);
+  /* border: 8px solid rgb(255, 255, 255); */
   background-color: rgb(255,127,54);
   color: rgb(255, 255, 255);
   font-weight: 500;
   font-size: 2.5rem;
-  margin: 4px 15px;
+  margin: 22px 0;
   height: 50px;
   width: 280px;
   text-align: center;
