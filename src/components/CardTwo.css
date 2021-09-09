@@ -11,12 +11,15 @@
   height: 100%;
 }
 
-/* .companies-row-one,
+.companies-container img {
+  margin: 8px;
+}
+
+.companies-row-one,
 .companies-row-two,
 .companies-row-three {
-  display: flex;
-  flex-direction: column;
-} */
+  margin-top: 15px;
+}
 
 .woman-coffee {
   height: 400px;

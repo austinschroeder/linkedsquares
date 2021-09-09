@@ -8,6 +8,7 @@
   align-items: center;
   padding: 8px 32px;
   background: white;
+  z-index: 11;
 }
 
 .navbar a {
