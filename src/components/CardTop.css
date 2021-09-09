@@ -10,6 +10,7 @@
   width: 100%;
   padding-right: 50px;
   padding-left: 100px;
+  justify-content: flex-start;
 }
 
 h1 {

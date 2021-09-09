@@ -5,6 +5,7 @@ import TopAdvert from './components/TopAdvert'
 import Footer from './components/Footer'
 import CardTop from './components/CardTop';
 import CardTwo from './components/CardTwo';
+import CardThree from './components/CardThree';
 
 function App() {
   return (
@@ -13,6 +14,7 @@ function App() {
       <Navbar />
       <CardTop />
       <CardTwo />
+      <CardThree />
       <Footer />
 
     </div>
